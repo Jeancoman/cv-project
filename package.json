@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://jeancoman.github.io/cv-project",
+  "homepage": "http://Jeancoman.github.io/cv-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
